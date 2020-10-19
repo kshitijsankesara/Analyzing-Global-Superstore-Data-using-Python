@@ -1,1 +1,1 @@
-# Analyzing-Global-Superstore Sales-Data-using-Python
+# Analyzing-Global-SuperstoreSales-Data-using-Python
